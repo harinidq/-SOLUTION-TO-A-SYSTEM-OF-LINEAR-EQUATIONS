@@ -27,7 +27,7 @@ print(lin)
 
 
 ## Output:
-!(![Screenshot from 2022-09-20 20-47-26](https://user-images.githubusercontent.com/113497680/191298375-dc4ea49c-b0ef-463e-a3d7-cc292b090676.png)
+![Screenshot from 2022-09-20 20-47-26](https://user-images.githubusercontent.com/113497680/191298375-dc4ea49c-b0ef-463e-a3d7-cc292b090676.png)
 
 
 ## Result: 
